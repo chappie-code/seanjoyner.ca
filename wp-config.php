@@ -26,7 +26,7 @@ define('WP_CACHE', true); // Added by W3 Total Cache
 define('DB_NAME', 'seanjoyner.ca');
 
 /** MySQL database username */
-define('DB_USER', 'i3283682_wp1');
+define('DB_USER', 'puffpuff_root');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'Y^mhJX[P5U6HHgUt&y(59[*3');
