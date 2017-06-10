@@ -2523,7 +2523,7 @@ a.social_links {
   -webkit-transform: translate(0, -50%);
   -ms-transform: translate(0, -50%);
   transform: translate(0, -50%);
-  background-image: url(http://whytechiro.com/wp-content/themes/healthflex/assets/less/../images/slider-arrows.png) !important;
+  background-image: url(http://seanjoyner.ca/wp-content/themes/healthflex/assets/less/../images/slider-arrows.png) !important;
   background-repeat: no-repeat !important;
   background-color: transparent !important;
   margin: 0 !important;
@@ -2532,7 +2532,7 @@ a.social_links {
 .head_panel .owl-carousel .owl-prev:hover,
 .head_panel .owl-carousel .owl-next:hover {
   opacity: 1;
-  background-image: url(http://whytechiro.com/wp-content/themes/healthflex/assets/less/../images/slider-arrows.png) !important;
+  background-image: url(http://seanjoyner.ca/wp-content/themes/healthflex/assets/less/../images/slider-arrows.png) !important;
   background-repeat: no-repeat !important;
   background-color: transparent !important;
 }
@@ -3455,7 +3455,7 @@ select {
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
-  background-image: url('http://whytechiro.com/wp-content/themes/healthflex/assets/less/../../assets/images/form-selector-grey.png');
+  background-image: url('http://seanjoyner.ca/wp-content/themes/healthflex/assets/less/../../assets/images/form-selector-grey.png');
   background-position: 95% 50%;
   background-repeat: no-repeat;
   background-size: 24px 24px;
@@ -4202,7 +4202,7 @@ table.timetable_big tbody td:first-child {
 }
 .twitter_feed_wrapper .twitter_slider ul.flex-direction-nav a {
   opacity: 1;
-  background: url('http://whytechiro.com/wp-content/themes/healthflex/assets/less/images/luna-controls-twitter.png') no-repeat -55px 0;
+  background: url('http://seanjoyner.ca/wp-content/themes/healthflex/assets/less/images/luna-controls-twitter.png') no-repeat -55px 0;
   background-size: 80px;
   border: 1px solid white;
   height: 40px;
@@ -5974,7 +5974,7 @@ ul.owl-carousel {
 /* =DEMOs Page
 -------------------------------------------------------------- */
 .demo_item {
-  background-image: url('http://whytechiro.com/wp-content/themes/healthflex/assets/less/images/demos_page/monitor.png');
+  background-image: url('http://seanjoyner.ca/wp-content/themes/healthflex/assets/less/images/demos_page/monitor.png');
   padding-bottom: 81.09% !important;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -7012,7 +7012,7 @@ fieldset[disabled] .woocommerce-page input.button.active {
 .woocommerce-ordering select.orderby {
   -moz-appearance: none;
   background-color: #e5e5e5;
-  background-image: url("http://whytechiro.com/wp-content/themes/healthflex/assets/less/../../assets/images/form-selector-grey.png");
+  background-image: url("http://seanjoyner.ca/wp-content/themes/healthflex/assets/less/../../assets/images/form-selector-grey.png");
   background-position: 95% 50%;
   background-repeat: no-repeat;
   background-size: 24px 24px;
