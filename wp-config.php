@@ -29,7 +29,7 @@ define('DB_NAME', 'seanjoyner.ca');
 define('DB_USER', 'puffpuff_root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Y^mhJX[P5U6HHgUt&y(59[*3');
+define('DB_PASSWORD', 'SvScgEBFmta5');
 
 /** MySQL hostname */
 define('DB_HOST', 'puffpuffshare-db.cafck54lrxjo.us-west-2.rds.amazonaws.com');
